@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-# @author github.com/j-000
+# @author https://github.com/j-000/folder-organiser.git
 import os
 import datetime
 import shutil
